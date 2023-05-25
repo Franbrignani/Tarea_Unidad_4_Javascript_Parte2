@@ -1,0 +1,32 @@
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(15, 123, 218);
+    display: inline-block;
+}
+
+.container:hover{
+    cursor: pointer;
+}
+
+.container2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(15, 218, 83);
+    display: inline-block;
+}
+
+.container2:hover{
+    cursor: pointer;
+}
+
+.container3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(218, 215, 15);
+    display: inline-block;
+}
+
+.container3:hover{
+    cursor: pointer;
+}
